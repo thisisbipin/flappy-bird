@@ -1,2 +1,3 @@
-# Flash-games
-Simple Games implemented in Javascript.
+# Flappy Bird
+
+Flappy Bird implemented in Javascript.
